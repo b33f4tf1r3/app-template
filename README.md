@@ -1,2 +1,2 @@
 # App-Template
-a sample application using template
+a sample web application using "ModelViewPresenter" (MVP)-Pattern and Template
